@@ -26,11 +26,11 @@ git clone https://github.com/your-username/Zenotron.git
 cd Zenotron
 ```
 
-### 2. Create a Virtual Environment (Optional but Recommended)
+### 2. Create a Virtual Environment 
 ```bash
-python -m venv venv
-source venv/bin/activate  # On macOS/Linux
-venv\Scripts\activate     # On Windows
+on windows
+conda create --name venev python=3.10 -y
+conda activate venev
 ```
 
 ### 3. Install Dependencies
@@ -56,5 +56,17 @@ python telebot.py
 2. Start a chat and type `/newbot`.
 3. Follow the instructions and get your **bot token**.
 4. Copy the token and paste it into your `.env` file.
+
+## Screenshots
+| Before Summarization | After Summarization |
+|------------------|----------------|
+| ![Execution-1](screenshots/Execution-1.png) | ![Execution-2](screenshots/Execution-2.png) |
+
+## Contributing
+Feel free to contribute by opening issues or submitting pull requests.
+
+## License
+This project is licensed under the MIT License.
+
 
 
