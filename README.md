@@ -58,7 +58,7 @@ python telebot.py
 4. Copy the token and paste it into your `.env` file.
 
 ## Screenshots
-| Before Summarization | After Summarization |
+| Execution-1 | Execution-2 |
 |------------------|----------------|
 | ![Execution-1](screenshots/Execution-1.png) | ![Execution-2](screenshots/Execution-2.png) |
 
